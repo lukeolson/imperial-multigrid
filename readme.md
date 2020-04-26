@@ -1,5 +1,4 @@
-### Multigrid Methods - An Overview
-
+### [Multigrid Methods - An Overview][../blob/master/overview/mg-lecture.pdf]
 
 #### Lecture Series at Imperial College
 Luke Olson, University of Illinois at Urbana Champaign
@@ -23,3 +22,9 @@ in a parallel setting.
 exposure to linear solvers; basic Python experience (for examples, but not
 required); general numerical analysis; introductory knowledge of partial
 differential equations.*
+
+---
+
+![overview1](./overview/mg-lecture-0.png "overview1")
+
+![overview2](./overview/mg-lecture-1.png "overview2")
