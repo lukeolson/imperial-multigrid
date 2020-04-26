@@ -1,4 +1,4 @@
-### [Multigrid Methods - An Overview][../blob/master/overview/mg-lecture.pdf]
+### [Multigrid Methods - An Overview](../blob/master/overview/mg-lecture.pdf)
 
 #### Lecture Series at Imperial College
 Luke Olson, University of Illinois at Urbana Champaign
