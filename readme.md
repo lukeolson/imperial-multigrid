@@ -3,12 +3,9 @@
 #### Lecture Series at Imperial College
 Luke Olson, University of Illinois at Urbana Champaign
 
-**W May 06 2020, 4--6pm BST**
-
-**F May 08 2020, 4--6pm BST**
-
-**M May 11 2020, 4--6pm BST**
-
+**W May 06 2020, 4--6pm BST**\
+**F May 08 2020, 4--6pm BST**\
+**M May 11 2020, 4--6pm BST**\
 **F May 15 2020, 4--6pm BST**
 
 The focus of this lecture series is on the fundamentals of multigrid methods
