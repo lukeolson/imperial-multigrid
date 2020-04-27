@@ -1,12 +1,14 @@
 ### [Multigrid Methods - An Overview](../blob/master/overview/mg-lecture.pdf)
 
-#### Lecture Series at Imperial College
+#### A (virtual!) Lecture Series at Imperial College
 Luke Olson, University of Illinois at Urbana Champaign
 
 **W May 06 2020, 4--6pm BST**\
 **F May 08 2020, 4--6pm BST**\
 **M May 11 2020, 4--6pm BST**\
 **F May 15 2020, 4--6pm BST**
+
+Participation will be via zoom.
 
 The focus of this lecture series is on the fundamentals of multigrid methods
 and is open to both practitioners and methods developers in mathematics, computer
