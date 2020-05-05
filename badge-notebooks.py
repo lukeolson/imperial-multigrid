@@ -24,7 +24,7 @@ for fname in fnames:
         if topcell['metadata']['id'] != 'colab-badge':
             doit = True
         else:
-            print('{fname}: already badged')
+            print(f'{fname}: already badged')
     else:
         doit = True
 
