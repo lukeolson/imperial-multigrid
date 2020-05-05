@@ -21,18 +21,19 @@ for fname in fnames:
     newcell = {}
     newcell['cell_type'] = "markdown"
     newcell['metadata'] = {"colab_type": "text",
-                           "id": "colab-badge"}
+                           "id": "view-in-github"}
     newcell['source'] = [s]
 
     topcell = d['cells'][0]
     doit = False
     if 'id' in topcell['metadata'].keys():
-        if topcell['metadata']['id'] != 'colab-badge':
+        if topcell['metadata']['id'] != 'view-in-github':
             doit = True
         else:
             print(f'{fname}: already badged')
-            if remove:
-                d['cells'].pop(0)
+            if topcell['metadata']['id'] == 'colab-badge' or topcell['metadata']['id'] == 'view-in-github':
+                if remove:
+                    d['cells'].pop(0)
     else:
         doit = True
 
