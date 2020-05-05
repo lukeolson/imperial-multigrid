@@ -17,7 +17,7 @@ multigrid methods in both a geometric and algebraic setting, introduce some key
 concepts in the theoretical treatment of these methods, and highlight their use
 in a parallel setting.
 
-*Suggested prerequisites: strong background in linear algebraic and some
+*Suggested prerequisites: strong background in linear algebra and some
 exposure to linear solvers; basic Python experience (for examples, but not
 required); general numerical analysis; introductory knowledge of partial
 differential equations.*
