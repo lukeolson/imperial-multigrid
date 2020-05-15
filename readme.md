@@ -12,13 +12,22 @@ Luke Olson, University of Illinois at Urbana Champaign
   <tr>
     <td> <a href="https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-1-mg-basics/lecture-1-mg-basics.pdf">
             <img src="./lecture-1-mg-basics/lecture-1-mg-basics-cover.png"  height=200px >
-      </a>
+         </a>
          </td>
-    <td> <img src="./lecture-2-mg-ext/lecture-2-mg-basics-cover.png"  height=200px ></td>
+    <td> <a href="https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-2-mg-ext/lecture-2-mg-basics.pdf">
+            <img src="./lecture-2-mg-ext/lecture-2-mg-basics-cover.png"  height=200px >
+         </a>
+    </td>
    </tr> 
    <tr>
-     <td> <img src="lecture-3-amg-basics/lecture-3-amg-basics-cover.png"  height=200px ></td>
-     <td> <img src="lecture-4-amg-theory/lecture-4-amg-theory-cover.png"  height=200px ></td>
+     <td> <a href="https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-3-amg-basics/lecture-3-amg-basics.pdf">
+          <img src="lecture-3-amg-basics/lecture-3-amg-basics-cover.png"  height=200px >
+          </a>
+     </td>
+     <td> <a href="https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-4-amg-theory/lecture-4-amg-theory.pdf">
+       <img src="lecture-4-amg-theory/lecture-4-amg-theory-cover.png"  height=200px >
+       </a>
+     </td>
   </tr>
 </table>
 
