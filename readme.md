@@ -1,12 +1,12 @@
-### [Multigrid Methods - An Overview](../blob/master/overview/mg-lecture.pdf)
+### Multigrid Methods - An Overview
 
 #### A (virtual!) Lecture Series at Imperial College
 Luke Olson, University of Illinois at Urbana Champaign
 
-**W May 06 2020, 4--6pm BST**\
-**F May 08 2020, 4--6pm BST**\
-**M May 11 2020, 4--6pm BST**\
-**F May 15 2020, 4--6pm BST**
+- **W May 06 2020, 4--6pm BST** [Lecture 1: MG Basics](https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-1-mg-basics/lecture-1-mg-basics.pdf)
+- **F May 08 2020, 4--6pm BST** [Lecture 2: MG Extensions](https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-2-mg-ext/lecture-2-mg-basics.pdf)
+- **M May 11 2020, 4--6pm BST** [Lecture 3: Algebraic Multigrid (AMG)](https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-3-amg-basics/lecture-3-amg-basics.pdf)
+- **F May 15 2020, 4--6pm BST** [Lecture 4: Multigrid Theory](https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-4-amg-theory/lecture-4-amg-theory.pdf)
 
 <table>
   <tr>
