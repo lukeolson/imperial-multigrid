@@ -8,6 +8,17 @@ Luke Olson, University of Illinois at Urbana Champaign
 **M May 11 2020, 4--6pm BST**\
 **F May 15 2020, 4--6pm BST**
 
+<table>
+  <tr>
+    <td> <img src="./lecture-1-mg-basics/lecture-1-mg-basics-cover.png"  height=200px ></td>
+    <td> <img src="./lecture-2-mg-ext/lecture-2-mg-basics-cover.png"  height=200px ></td>
+   </tr> 
+   <tr>
+     <td> <img src="lecture-3-amg-basics/lecture-3-amg-basics-cover.png"  height=200px ></td>
+     <td> <img src="lecture-4-amg-theory/lecture-4-amg-theory-cover.png"  height=200px ></td>
+  </tr>
+</table>
+
 Participation will be via zoom.
 
 The focus of this lecture series is on the fundamentals of multigrid methods
