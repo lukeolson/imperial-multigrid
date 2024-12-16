@@ -8,6 +8,17 @@ Luke Olson, University of Illinois at Urbana Champaign
 - **M May 11 2020, 4--6pm BST** [Lecture 3: Algebraic Multigrid (AMG)](https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-3-amg-basics/lecture-3-amg-basics.pdf)
 - **F May 15 2020, 4--6pm BST** [Lecture 4: Multigrid Theory](https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-4-amg-theory/lecture-4-amg-theory.pdf)
 
+```bibtex
+ @misc{olson_imperial_multigrid, 
+   author = {Luke N. Olson}, 
+   title = {Multigrid Methods~--~An Overview}, 
+   note = {A (virtual) lecture series at Imperial College London.}, 
+   month = {May}, 
+   year = {2020}, 
+   howpublished = {\url{https://github.com/lukeolson/imperial-multigrid}}, 
+ }
+```
+
 <table>
   <tr>
     <td> <a href="https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-1-mg-basics/lecture-1-mg-basics.pdf">
