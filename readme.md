@@ -3,10 +3,10 @@
 #### A (virtual!) Lecture Series at Imperial College
 Luke Olson, University of Illinois at Urbana Champaign
 
-- **W May 06 2020, 4--6pm BST** [Lecture 1: MG Basics](https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-1-mg-basics/lecture-1-mg-basics.pdf)
-- **F May 08 2020, 4--6pm BST** [Lecture 2: MG Extensions](https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-2-mg-ext/lecture-2-mg-basics.pdf)
-- **M May 11 2020, 4--6pm BST** [Lecture 3: Algebraic Multigrid (AMG)](https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-3-amg-basics/lecture-3-amg-basics.pdf)
-- **F May 15 2020, 4--6pm BST** [Lecture 4: Multigrid Theory](https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-4-amg-theory/lecture-4-amg-theory.pdf)
+- **W May 06 2020, 4--6pm BST** [Lecture 1: MG Basics](https://github.com/lukeolson/imperial-multigrid/blob/main/lecture-1-mg-basics/lecture-1-mg-basics.pdf)
+- **F May 08 2020, 4--6pm BST** [Lecture 2: MG Extensions](https://github.com/lukeolson/imperial-multigrid/blob/main/lecture-2-mg-ext/lecture-2-mg-basics.pdf)
+- **M May 11 2020, 4--6pm BST** [Lecture 3: Algebraic Multigrid (AMG)](https://github.com/lukeolson/imperial-multigrid/blob/main/lecture-3-amg-basics/lecture-3-amg-basics.pdf)
+- **F May 15 2020, 4--6pm BST** [Lecture 4: Multigrid Theory](https://github.com/lukeolson/imperial-multigrid/blob/main/lecture-4-amg-theory/lecture-4-amg-theory.pdf)
 
 ```bibtex
  @misc{olson_imperial_multigrid, 
@@ -21,21 +21,21 @@ Luke Olson, University of Illinois at Urbana Champaign
 
 <table>
   <tr>
-    <td> <a href="https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-1-mg-basics/lecture-1-mg-basics.pdf">
+    <td> <a href="https://github.com/lukeolson/imperial-multigrid/blob/main/lecture-1-mg-basics/lecture-1-mg-basics.pdf">
             <img src="./lecture-1-mg-basics/lecture-1-mg-basics-cover.png"  height=200px >
          </a>
          </td>
-    <td> <a href="https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-2-mg-ext/lecture-2-mg-basics.pdf">
+    <td> <a href="https://github.com/lukeolson/imperial-multigrid/blob/main/lecture-2-mg-ext/lecture-2-mg-basics.pdf">
             <img src="./lecture-2-mg-ext/lecture-2-mg-basics-cover.png"  height=200px >
          </a>
     </td>
    </tr> 
    <tr>
-     <td> <a href="https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-3-amg-basics/lecture-3-amg-basics.pdf">
+     <td> <a href="https://github.com/lukeolson/imperial-multigrid/blob/main/lecture-3-amg-basics/lecture-3-amg-basics.pdf">
           <img src="lecture-3-amg-basics/lecture-3-amg-basics-cover.png"  height=200px >
           </a>
      </td>
-     <td> <a href="https://github.com/lukeolson/imperial-multigrid/blob/master/lecture-4-amg-theory/lecture-4-amg-theory.pdf">
+     <td> <a href="https://github.com/lukeolson/imperial-multigrid/blob/main/lecture-4-amg-theory/lecture-4-amg-theory.pdf">
        <img src="lecture-4-amg-theory/lecture-4-amg-theory-cover.png"  height=200px >
        </a>
      </td>
